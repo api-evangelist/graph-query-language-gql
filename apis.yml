@@ -1,9 +1,6 @@
 aid: graph-query-language-gql
 name: Graph Query Language (GQL)
-description: An international standard query language for property graph databases,
-  developed by ISO/IEC to provide a declarative way to query and manipulate graph
-  data structures. Effective implementation supports data-driven strategies and helps
-  maintain data integrity across systems.
+description: An international standard query language for property graph databases, developed by ISO/IEC to provide a declarative way to query and manipulate graph data structures. Effective implementation supports data-driven strategies and helps maintain data integrity across systems.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://www.gqlstandards.org/
 created: '2025-01-01'
@@ -11,10 +8,10 @@ modified: '2026-03-16'
 specificationVersion: '0.19'
 type: Index
 tags:
-  - Query Language
-  - Graph Database
   - Database
+  - Graph Database
   - ISO Standard
+  - Query Language
 apis: []
 common:
   - type: Portal
