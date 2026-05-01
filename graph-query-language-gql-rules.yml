@@ -1,0 +1,40 @@
+aid: graph-query-language-gql
+name: Graph Query Language (GQL) Rules
+description: >-
+  Rules and conventions tied to the GQL international standard for property
+  graph databases (ISO/IEC 39075:2024). Captures applicability, conformance
+  expectations, and integration considerations for adopters.
+rules:
+  - id: standard-reference
+    name: ISO/IEC 39075:2024 Conformance
+    description: >-
+      Implementations identifying as GQL should conform to ISO/IEC 39075:2024
+      Information technology — Database languages — GQL, published April 17,
+      2024 by ISO/IEC JTC1 SC32 WG3.
+  - id: declarative-querying
+    name: Declarative Property Graph Querying
+    description: >-
+      GQL is a declarative language for querying and manipulating property
+      graph data structures. It complements SQL for graph workloads and builds
+      on prior art including openCypher, PGQL, GSQL, and G-CORE.
+  - id: data-integrity
+    name: Data Integrity Across Systems
+    description: >-
+      Adopting a single standard query language helps maintain data integrity
+      and portability across graph database vendors. Implementers should
+      document any vendor-specific extensions.
+  - id: standards-body
+    name: Stewardship by ISO/IEC JTC1 SC32 WG3
+    description: >-
+      The standard is maintained by ISO/IEC JTC1 SC32 WG3 (Database Languages)
+      with input from national standards bodies. Implementations should track
+      future amendments and corrigenda.
+  - id: not-an-api
+    name: Standard, Not an API
+    description: >-
+      GQL is a query language specification rather than a network API.
+      Integrations are language-level (parser/runtime) rather than HTTP-based.
+maintainer:
+  name: Kin Lane
+  email: kin@apievangelist.com
+modified: '2026-04-28'
