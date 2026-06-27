@@ -27,7 +27,7 @@ common:
     url: https://www.gqlstandards.org/
   - type: Documentation
     url: https://www.gqlstandards.org/
-  - type: Standard
+  - type: Standards
     url: https://www.iso.org/standard/76120.html
   - type: StandardsBody
     url: https://www.iso.org/committee/45342.html
