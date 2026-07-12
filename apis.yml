@@ -23,6 +23,8 @@ tags:
   - Property Graph
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/graph-query-language-gql-domain-security.yml
   - type: Portal
     url: https://www.gqlstandards.org/
   - type: Documentation
