@@ -8,7 +8,18 @@ description: >-
   prior art including openCypher, PGQL, GSQL, and G-CORE. Effective
   implementation supports data-driven strategies and helps maintain data
   integrity and portability across graph database systems.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/graph-query-language-gql.png
 url: https://www.gqlstandards.org/
 created: '2025-01-01'
 modified: '2026-04-28'
