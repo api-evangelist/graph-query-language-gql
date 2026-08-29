@@ -8,6 +8,17 @@ description: >-
   prior art including openCypher, PGQL, GSQL, and G-CORE. Effective
   implementation supports data-driven strategies and helps maintain data
   integrity and portability across graph database systems.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
