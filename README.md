@@ -1,4 +1,4 @@
-# Graph Query Language (GQL) (graph-query-language-gql)
+# graph-query-language-gql
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GQL is an international standard query language for property graph databases, developed by ISO/IEC JTC1 SC32 WG3 to provide a declarative way to query and manipulate graph data structures. Published as ISO/IEC 39075:2024 on April 17, 2024, the standard complements SQL for graph workloads and builds on prior art including openCypher, PGQL, GSQL, and G-CORE.
+## graph-query-language-gql on APIs.io
 
-**APIs.yml:** [Visit APIs.yml URL](https://raw.githubusercontent.com/api-evangelist/graph-query-language-gql/refs/heads/main/apis.yml)
+Everything profiled for graph-query-language-gql is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/graph-query-language-gql/](https://apis.io/providers/graph-query-language-gql/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Standard
-- **Access:** Public
+Not yet rated. See [apis.io/providers/graph-query-language-gql/](https://apis.io/providers/graph-query-language-gql/).
 
-## Tags
+## How this profile is made
 
-Database, Graph Database, ISO Standard, Query Language, Standard, Property Graph
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for graph-query-language-gql: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## Standard Status
-
-- **Standard:** ISO/IEC 39075:2024 Information technology — Database languages — GQL
-- **Published:** April 17, 2024
-- **Steward:** ISO/IEC JTC1 SC32 WG3 (Database Languages)
-
-## APIs
-
-GQL is a query language specification rather than a network API. Integrations are language-level (parser/runtime) rather than HTTP-based. No public APIs are documented in this index.
-
-## Common Properties
-
-- [Portal](https://www.gqlstandards.org/)
-- [Documentation](https://www.gqlstandards.org/)
-- [ISO/IEC 39075:2024 Standard](https://www.iso.org/standard/76120.html)
-- [Standards Body (ISO/IEC JTC1 SC32)](https://www.iso.org/committee/45342.html)
-- [Rules](graph-query-language-gql-rules.yml)
-
-## Maintainers
-
-- **FN:** Kin Lane
-- **Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/graph-query-language-gql/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
